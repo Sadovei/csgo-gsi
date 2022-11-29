@@ -1,0 +1,10 @@
+{
+  "name": "../types",
+  "description": "PGL Dota 2 Type Definitions",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  }
+}
